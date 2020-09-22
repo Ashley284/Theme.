@@ -1,0 +1,8 @@
+{
+    "name": "theme",
+    "description": "My personal theme for bd",
+    "version": "1.0.0",
+    "author": "Kitten",
+    "theme": "theme.css",
+    "license": "unknown"
+}
